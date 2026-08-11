@@ -7,7 +7,7 @@ RecallAI is a **Retrieval-Augmented Generation (RAG)** application that lets you
 Instead of manually searching through long documents, RecallAI extracts the document content, creates semantic embeddings, stores them in a vector database, and uses **Mistral AI** to generate answers grounded in the uploaded document.
 
 > **Upload a document → Ask questions → Get answers grounded in your document.**
-
+🚀 **[Live Demo](https://recall-ai.streamlit.app/)**
 ---
 
 ## 🚀 Features
