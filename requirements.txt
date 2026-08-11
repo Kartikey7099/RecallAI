@@ -1,0 +1,11 @@
+streamlit==1.61.1
+
+langchain-core==0.3.86
+langchain-community==0.3.31
+langchain-text-splitters==0.3.11
+langchain-chroma==0.2.6
+langchain-huggingface==0.3.1
+langchain-mistralai==0.2.12
+
+sentence-transformers==3.4.1
+pypdf==5.9.0
